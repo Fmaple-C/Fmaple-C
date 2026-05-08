@@ -1,5 +1,7 @@
 # Hey, I'm Fmaple-C.
 
+> 君子务本，本立而道生。
+
 I build web applications, AI-assisted tools, and technical notes that turn learning into reusable systems.
 
 Currently spending most of my time on writing, product experiments, and small-but-steady commits.
