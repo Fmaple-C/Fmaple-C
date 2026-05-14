@@ -53,18 +53,18 @@ Currently spending most of my time on writing, product experiments, and small-bu
 ### Activity snapshot
 
 <p>
-  <img alt="2026 contributions" src="https://img.shields.io/badge/2026%20contributions-234-2ea44f?style=flat-square&logo=github&logoColor=white" />
-  <img alt="April 2026 commits" src="https://img.shields.io/badge/April%202026-101%20commits-0969da?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Active areas" src="https://img.shields.io/badge/active%20areas-4-8250df?style=flat-square&logo=githubactions&logoColor=white" />
+  <img alt="2026 public contributions" src="https://img.shields.io/badge/2026%20public%20contributions-7-2ea44f?style=flat-square&logo=github&logoColor=white" />
+  <img alt="May 2026 public contributions" src="https://img.shields.io/badge/May%202026-4%20public%20contributions-0969da?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Active public days" src="https://img.shields.io/badge/active%20public%20days-4-8250df?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-| Area | April 2026 commits |
+| Date | Public contributions |
 | --- | ---: |
-| Notes | 55 |
-| Blog | 43 |
-| AI Enterprise Assistant | 2 |
-| Profile README | 1 |
-| **Total** | **101** |
+| Apr 27, 2026 | 3 |
+| May 6, 2026 | 1 |
+| May 8, 2026 | 1 |
+| May 14, 2026 | 2 |
+| **Total in 2026** | **7** |
 
 ### Current direction
 
